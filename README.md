@@ -1,20 +1,12 @@
 # Andrey Afanasev | Java Backend Engineer
-### **Backend developer**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+### **Backend Developer**
 
 ---
 
 ## Обо мне
-Я бэкенд-разработчик и студент **МТУСИ**. Специализируюсь на создании отказоустойчивых сервисов на **Java**. Мой основной фокус - чистая архитектура, оптимизация производительности и создание архитектуры. 
+Я бэкенд-разработчик и студент **МТУСИ**. Специализируюсь на создании отказоустойчивых сервисов на **Java**. Мой основной фокус — чистая архитектура, оптимизация производительности и проектирование систем. 
 
-Имею опыт работы над реальными проектами.
+Имею опыт работы над реальными проектами в сфере автоматизации и распределенных систем.
 
 ---
 
@@ -57,11 +49,6 @@
 
 ---
 
-## 📫 Контакты
-<p align="left">
-<a href="https://t.me/afanasefff_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="afanasefff_a" height="30" width="40" /></a>
-<a href="mailto:krllx6@mail.ru"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="24" /></a>
-</p>
-
----
-*Built with care, Java 21 and a bit of caffeine.*
+## Контакты
+- **Telegram:** [@afanasefff_a](https://t.me/afanasefff_a)
+- **Email:** krllx6@mail.ru
